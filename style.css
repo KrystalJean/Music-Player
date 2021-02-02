@@ -110,7 +110,7 @@ body {
 
     .progress-container {
         background-color: #fff;
-        border-radius: 5px;
+        border-radius: 5px; 
         cursor: pointer;
         margin: 10px 0;
         height: 5px;
